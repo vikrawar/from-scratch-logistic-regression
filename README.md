@@ -30,3 +30,8 @@ This notebook builds that understanding from the ground up, making every step vi
 ## 📓 Notebook
 
 > [Open the notebook](./Logistic%20Regression%20from%20Scratch.ipynb)
+
+---
+
+## ⎚ YouTube tutorial
+https://www.youtube.com/watch?v=Oy-evZWy5b0
