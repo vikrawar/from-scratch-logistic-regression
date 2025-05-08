@@ -34,4 +34,4 @@ This notebook builds that understanding from the ground up, making every step vi
 ---
 
 ## ⎚ YouTube tutorial
-https://www.youtube.com/watch?v=Oy-evZWy5b0
+> https://www.youtube.com/watch?v=Oy-evZWy5b0
